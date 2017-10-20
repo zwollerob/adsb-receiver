@@ -1,12 +1,5 @@
-            </div>
-            <div id="push"></div>
-        </div>
-        <footer id="footer">
-            <div class="container">
-                <p class="muted credits">
-                    <a href="https://www.adsbreceiver.net">The ADS-B Receiver Project</a>
-                </p>
-            </div>
-        </footer>
-   </body>
+    <script src="assets/js/jquery-3.2.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+  </body>
 </html>
